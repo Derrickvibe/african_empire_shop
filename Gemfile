@@ -6,7 +6,7 @@ gem 'rails', '~> 6.1.1'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
-gem 'webpacker', '~> 5.0'+
+gem "webpacker", github: "rails/webpacker", ref: 'b6c2180'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 
